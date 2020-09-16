@@ -5,6 +5,7 @@ authors = ["Edwin Svensson <djson@olback.net>"]
 edition = "2018"
 description = "Easily Access Dynamic JSON in Rust"
 license = "MIT / Apache-2.0"
+repository = "https://github.com/olback/djson-rs/tree/master"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
